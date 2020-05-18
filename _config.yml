@@ -79,7 +79,7 @@ social:
   - name: Twitter
     icon: twitter
     username: MervinPerez20
-    url: https://twitter.com/MervinPerez2020
+    url: https://twitter.com/MervinPerez20
     desc: Follow me on Twitter
     share: true
 
@@ -97,12 +97,12 @@ social:
     desc: Fork me on GitHub
     share: true
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    desc: Connect with me on LinkedIn
-    share: false
+  - #name: LinkedIn
+    #icon: linkedin
+    #username: Ben Centra
+    #url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    #desc: Connect with me on LinkedIn
+    #share: false
 
   - name: Google+
     icon: google-plus

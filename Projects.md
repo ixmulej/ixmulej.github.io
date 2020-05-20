@@ -12,7 +12,7 @@ main_nav: true
 
 <h1 id="headings">Restauración Ecológica</h1>
 
-<p></p>
+<p>Guatemala es uno de los países con mayor tasa de deforestación en la región Centroamericana. Esta degradación obedece a un cambio en el uso del suelo para beneficio de la agricultura y ganadería, monocultivos del sector industrial, y recurso energético. Este cambio de uso genera una simplicidad en la estructura del bosque, minimiza la función del ecosistema, y disminuye la disponibilidad de servicios ecosistémicos para el humano. Aunque hoy día existen programas que promueven la restauración de tierras degradadas utilizando especies nativas, existen muchos vacíos de información sobre qué especies utilizar, diseños y métodos de siembra a implementar, y la carencia de datos básicos que logren el éxito de los programas ya establecidos (i.e., protocolos de propagación de propágulos). Este vacío de información ha propiciado el uso especies comerciales para restaurar áreas degradadas, promoviendo a nivel de paisaje, el establecimiento de monocultivos (i.e., bosques de producción de Pino). Un comportamiento contrario a lo que se pretende alcanzar a nivel de país en temas de restauración ecológica.</p>
 
 <hr>
 

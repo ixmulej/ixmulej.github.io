@@ -7,12 +7,5 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-Mervin.... is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Mi interés científico se basa en conocer el efecto de factores climáticos y antropogénicos en la ecología y dinámica poblacional de especies vegetales del trópico, especialmente aquellas con rango de distribución restringida o con alguna categoría de amenaza. El monitoreo a largo plazo y el uso de modelos de proyección de matrices e integrales son los métodos que utilizo para identificar patrones, información que se transforman en planes de manejo y conservación, así como en estrategias y acciones de restauración de poblaciones vulnerables tanto en sistemas naturales como antropogénicos

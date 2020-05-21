@@ -97,6 +97,13 @@ social:
     desc: Fork me on GitHub
     share: true
 
+ - name: ResearchGate
+    icon: ResearchGate
+    username: ixmulej
+    url: https://www.researchgate.net/profile/Mervin_Perez
+    desc: Follow me on ResearchGate
+    share: true
+    
   - #name: LinkedIn
     #icon: linkedin
     #username: Ben Centra
